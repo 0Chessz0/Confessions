@@ -1,0 +1,69 @@
+===================================================
+  TERMS OF SERVICE & PRIVACY POLICY - Discord Bot
+===================================================
+
+Effective Date: July 29, 2025
+Last Updated:  July 29, 2025
+
+This document governs the use of the Discord Bot (“Confessions”) provided by the Developer (Chessz__). By using, installing, or interacting with the Bot on any Discord server, you agree to the following Terms and acknowledge the Privacy Policy.
+
+===================================================
+                  TERMS OF SERVICE
+===================================================
+
+1. Description of the Bot
+--------------------------
+The Bot provides anonymous confession functionality within Discord servers, including anonymous replies, moderation review systems, logging (if enabled), and optional premium features.
+
+2. Eligibility
+---------------
+You must be at least 13 years old and comply with Discord’s Terms of Service and Community Guidelines to use this Bot.
+
+3. Acceptable Use
+------------------
+You agree NOT to use the Bot to:
+- Post illegal, abusive, harassing, or otherwise harmful content.
+- Evade server moderation.
+- Violate local, national, or international laws.
+- Share personal information of others without consent.
+
+4. Server Admin Responsibilities
+---------------------------------
+Server administrators are responsible for:
+- Configuring the Bot correctly.
+- Informing users if premium features like author logging are enabled.
+- Moderating content submitted through the Bot.
+- Ensuring compliance with all applicable laws and Discord rules.
+
+5. Premium Features
+--------------------
+Premium features include:
+- Author logging to a server-specified channel.
+- Review queue (pre-approval of confessions).
+- Embed theme customization.
+- Rate limiting per user.
+
+Premium access is granted per server and handled through third-party platforms like Ko-fi. Unauthorized redistribution or abuse of premium features may result in access removal.
+
+6. No Warranty
+---------------
+The Bot is provided "as-is" and "as-available" with no warranties or guarantees of uptime, reliability, or performance.
+
+7. Limitation of Liability
+---------------------------
+The Developer shall not be held liable for any damages resulting from use or misuse of the Bot, including data loss or misuse by server administrators.
+
+8. Termination
+---------------
+We reserve the right to:
+- Remove the Bot from any server at any time.
+- Revoke access to certain features for abuse or policy violations.
+
+9. Modifications
+-----------------
+These Terms may be updated periodically. Continued use of the Bot implies acceptance of the current Terms.
+
+10. Contact
+------------
+For questions or support:
+https://discord.gg/JvpFRbvWkD

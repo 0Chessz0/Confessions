@@ -1,0 +1,62 @@
+===================================================
+                   PRIVACY POLICY
+===================================================
+
+1. Data We Collect
+-------------------
+The Bot collects and stores the following **non-personal** data locally:
+
+a. Server Configuration:
+- Server ID and name (used for file names)
+- Channel and role IDs for configured features
+- Settings for premium features (e.g., embed theme, review queue, logging)
+
+b. Operational Statistics:
+- Total number of confessions, replies, and command executions
+- Stored in a file named `stats.json` for aggregate reporting
+
+c. Premium Server List:
+- A list of server IDs that have premium access
+- No payment or user data is stored (handled via third-party platform)
+
+2. What We DO NOT Collect or Store
+-----------------------------------
+- We do NOT store Discord user IDs or usernames persistently.
+- We do NOT collect or log message contents outside Discord.
+- We do NOT store IP addresses or any metadata.
+- Any temporary use of user objects (e.g., for rate limiting or logging) exists only **in memory** for a short time and is never saved to disk or transmitted externally.
+
+3. Author Logging (Premium Feature)
+------------------------------------
+If author logging is enabled:
+- The user ID and confession message are **sent only to a specified log channel** within the Discord server.
+- No part of this information is stored, copied, or accessed by the Developer or outside services.
+- Logging occurs in real-time and is handled entirely within Discord.
+
+4. Data Sharing
+----------------
+We do NOT sell, share, or rent your data.
+All configuration and statistics are stored **locally**, and all confession/reply messages remain **within Discord** only.
+
+5. Data Retention
+------------------
+- Configuration and statistics remain on disk unless removed by the Developer or by request from a server administrator.
+- Anonymous confessions and replies are retained only within Discord (not by us).
+
+6. Security
+------------
+We take reasonable care to secure configuration files and local data.
+However, no system is 100% secure, and we recommend server owners use Discord’s permission system responsibly to protect log channels and sensitive settings.
+
+7. Children’s Privacy
+----------------------
+The Bot is not intended for children under 13. Use of the Bot must comply with Discord’s age requirements and local laws.
+
+8. Changes to this Policy
+--------------------------
+We may update this policy periodically. Continued use of the Bot signifies acceptance of the current Privacy Policy.
+
+9. Contact
+-----------
+For questions or data-related inquiries:
+https://discord.com/invite/JvpFRbvWkD
